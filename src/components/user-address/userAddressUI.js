@@ -12,7 +12,7 @@ export default function UserAddressUI({ address }) {
       />
       <div className="wrapper-footer-ui">
         <>
-          <h2 className="footer-heading-text">Select your delivery location</h2>
+          <h2 className="footer-heading-text">Add your address</h2>
           <div className="align-address-button">
             <div className="user-address-show">
               <img src={location} alt="Location" className="location-img" />
